@@ -21,5 +21,5 @@ The software was developed in C++ using VSCode as the IDE with the PlatformIO ex
 ## Hardware
 The heart of the project was an **ESP32-S3-N16R8**, and the peripherals used were the ones provided in the development kit we received. We also 3D printed three components: the stepper mount, the ultrasonic sensor box and the DC motor lid. The wiring was done using Dupont wires and 2 solderless 830 points breadboards were used to connect some of the main components. A detailed electrical schematic which illustrates the whole system is placed in the repo’s root.
 
-![Schematic](Report_Schematic/Schematic_MI.pdf)
+![Schematic](Report_Schematic/Schematic_MI.png)
 
