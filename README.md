@@ -1,5 +1,7 @@
 # Ballon Shooter Game
 
+![Schematic](Videos_Photos/Interface_view.jpeg)
+
 ## Interface
 The interface acts as an accessible game where the player can control the direction in which a fan points and blow obstacles (ballons) when desirable.
 
