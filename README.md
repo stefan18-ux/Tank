@@ -13,7 +13,7 @@ The interface was implemented with the following functionalities:
 - The Joystick can be pressed to exit the game and go back to the main menu (the joystick switch acts as an exit method for the menu also);
 - When an enemy is in front of the ultrasonic sensor, a sound alarm is fired and based on the distance to the enemy the sound is stronger or weaker; this functionality was developed to help blind users to play the game (to give them a new set of eyes);
 - When the user decides to close the game, the fan readjust to the calibrated initial position;
-- During the game, the distance to the enemy and the angle of rotation is displayed on the display.
+- During the game, the distance to the enemy is displayed on the display.
 
 ## Software
 The software was developed in C++ using VSCode as the IDE with the PlatformIO extension. More details regarding the implementation are explained in the source code and dedicated README.md file.
